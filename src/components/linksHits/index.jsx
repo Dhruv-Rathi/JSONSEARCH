@@ -15,18 +15,16 @@ const HitsContainer = styled.div`
 
 
 function LinksHits({ hits }) {
-  const hit0 = hits[0].links;
-  const hit1 = hits[1].links;
-  console.log(hits[0].links);
+
   return (
     <HitsContainer>
       {/* {console.log(hits[0].links)}  */}
       {/* <p>
         {hits[0].links}
       </p> */}
-      {/* {hit0.map((hit) => {
+      {hits.map((hit) => {
         <LinkHit key={hit.ObjectID} hit={hit} />
-      })} */}
+      })}
     </HitsContainer>
   )
 };

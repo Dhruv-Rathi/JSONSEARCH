@@ -23,7 +23,7 @@ function App() {
         <h3>Search Links</h3>
           <SearchBox />
           <RefinementList attribute="links" />
-          {/* <LinksHits /> */}
+          <LinksHits />
 
         </InstantSearch>
         
