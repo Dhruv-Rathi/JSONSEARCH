@@ -4,6 +4,8 @@ This Web site is created uaing react and typesense to search for Links saved by 
 Dockerized the project:
 https://hub.docker.com/r/dhruv04/json-search/tags
 
+<img width="677" alt="image" src="https://user-images.githubusercontent.com/73396815/209459526-79d0341b-f3fe-42a9-92cf-b5541dba4ea7.png">
+
 ## Available Scripts
 
 In the project directory, you can run:
