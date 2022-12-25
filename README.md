@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# JSONSearch website using typesense
+This Web site is created uaing react and typesense to search for Links saved by a person daily
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Dockerized the project:
+https://hub.docker.com/r/dhruv04/json-search/tags
 
 ## Available Scripts
 
